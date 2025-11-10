@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phiêu Lưu on Unibooks</title>
+    <link>//localhost:1313/tags/phi%C3%AAu-l%C6%B0u/</link>
+    <description>Recent content in Phiêu Lưu on Unibooks</description>
+    <generator>Hugo</generator>
+    <language>vi-vn</language>
+    <lastBuildDate>Fri, 27 Oct 2023 10:00:00 +0700</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/phi%C3%AAu-l%C6%B0u/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cuốn Sách A: Hành trình khám phá</title>
+      <link>//localhost:1313/books/cuon-sach-a/</link>
+      <pubDate>Fri, 27 Oct 2023 10:00:00 +0700</pubDate>
+      <guid>//localhost:1313/books/cuon-sach-a/</guid>
+      <description>&lt;h2 id=&#34;giới-thiệu-về-cuốn-sách-a&#34;&gt;Giới thiệu về Cuốn Sách A&lt;/h2&gt;&#xA;&lt;p&gt;Cuốn Sách A là một tác phẩm &lt;strong&gt;kinh điển&lt;/strong&gt; trong thể loại phiêu lưu, đưa người đọc vào một hành trình không tưởng qua những vùng đất hoang sơ và gặp gỡ những nhân vật đầy màu sắc. Tác giả Nguyễn Văn A đã khéo léo dệt nên một câu chuyện lôi cuốn, với những tình tiết bất ngờ và thông điệp sâu sắc về cuộc sống, tình bạn và lòng dũng cảm.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

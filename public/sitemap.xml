@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>//localhost:1313/blog/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/1/01/01/dac-nhan-tam/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/drama/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/1/01/01/khi-hoi-tho-hoa-thinh-khong/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/kinh-t%E1%BA%BF/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/l%C3%A3ng-m%E1%BA%A1n/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/1/01/01/loi-the-bat-cong/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/1/01/01/mat-biec/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/self-help/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/</loc>
+  </url><url>
+    <loc>//localhost:1313/blog/1/01/01/the-subtle-art-of-not-giving-a-fuck/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/ti%E1%BB%83u-s%E1%BB%AD/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/t%E1%BB%B1-truy%E1%BB%87n/</loc>
+  </url><url>
+    <loc>//localhost:1313/</loc>
+  </url>
+</urlset>
